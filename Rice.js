@@ -12,8 +12,8 @@ $(function () {
     autoplay: true, //「オプション名: 値」の形式で書く
     autoplaySpeed: 4000,
     dots: true, //複数書く場合は「,」でつなぐ
-    prevArrow: `<span><div class="fa-arrow-right"><img src="../image/right-arrow.svg" alt="アイコン右"></div></span>`,
-    nextArrow: `<span><div class="fa-arrow-left"><img src="../image/left-arrow.svg" alt="アイコン左"></div></span>`
+    prevArrow: `<span><div class="fa-arrow-right"><img src="./right-arrow.svg" alt="アイコン右"></div></span>`,
+    nextArrow: `<span><div class="fa-arrow-left"><img src="./left-arrow.svg" alt="アイコン左"></div></span>`
   });
   $(function(){
     // #で始まるリンクをクリックしたら実行されます
