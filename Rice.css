@@ -29,6 +29,7 @@ li {
   background: #666;
   text-align: center;
   position: relative;
+  font-family: serif;
 }
 #wrapper span {
   display: block;
