@@ -29,7 +29,6 @@ li {
   background: #666;
   text-align: center;
   position: relative;
-  font-family: serif;
 }
 #wrapper span {
   display: block;
@@ -61,6 +60,7 @@ li {
     top: 24%;
     left: 4%;
     text-shadow: 2px 2px #222222;
+    font-family: serif;
 }
 #wrapper.active span:nth-child(1) {
   top: 50%;
